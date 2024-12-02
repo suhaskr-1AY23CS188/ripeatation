@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 1d4fcf5 (new)
 i hi hello
 how are you
 computer science and engineering
@@ -8,6 +11,7 @@ computer science and engineering
 suhas k r
 CSE
 >>>>>>> featurebranch
+<<<<<<< HEAD
 =======
 suhas k r
 CSE
@@ -16,3 +20,5 @@ CSE
 suhas k r
 CSE
 >>>>>>> featurebranch
+=======
+>>>>>>> parent of 1d4fcf5 (new)

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 hi hello
 
@@ -9,3 +10,8 @@ swagath srivatsa
 =======
 swagath srivatsa
 >>>>>>> featurebranch
+=======
+
+hi hello
+
+>>>>>>> parent of 1d4fcf5 (new)

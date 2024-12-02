@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 hi hello
 
+=======
+swagath srivatsa
+>>>>>>> featurebranch
 =======
 swagath srivatsa
 >>>>>>> featurebranch

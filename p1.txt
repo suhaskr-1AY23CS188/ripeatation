@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 i hi hello
 how are you
 computer science and engineering
+=======
+suhas k r
+CSE
+>>>>>>> featurebranch
 =======
 suhas k r
 CSE
